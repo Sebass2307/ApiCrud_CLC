@@ -1,0 +1,2 @@
+clc1 corresponde a la api en .NET
+clc_react corresponde a el front en react
