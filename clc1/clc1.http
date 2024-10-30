@@ -1,0 +1,6 @@
+@clc1_HostAddress = http://localhost:5133
+
+GET {{clc1_HostAddress}}/Person/
+Accept: application/json
+
+###

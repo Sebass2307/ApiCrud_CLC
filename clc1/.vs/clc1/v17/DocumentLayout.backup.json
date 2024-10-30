@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\proyectos\\clc1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|c:\\temp\\proyectos\\clc1\\migrations\\20241028214944_migrationclc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|solutionrelative:migrations\\20241028214944_migrationclc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|c:\\temp\\proyectos\\clc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|c:\\temp\\proyectos\\clc1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|c:\\temp\\proyectos\\clc1\\clc1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|solutionrelative:clc1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|c:\\temp\\proyectos\\clc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|c:\\temp\\proyectos\\clc1\\controllers\\webapiperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|solutionrelative:controllers\\webapiperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|c:\\temp\\proyectos\\clc1\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28F0151-2D60-4E58-B2BF-8E8010BCE7E1}|clc1.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241028214944_MigrationCLC.cs",
+              "DocumentMoniker": "C:\\temp\\proyectos\\clc1\\Migrations\\20241028214944_MigrationCLC.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028214944_MigrationCLC.cs",
+              "ToolTip": "C:\\temp\\proyectos\\clc1\\Migrations\\20241028214944_MigrationCLC.cs",
+              "RelativeToolTip": "Migrations\\20241028214944_MigrationCLC.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:49:44.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\proyectos\\clc1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\temp\\proyectos\\clc1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:39:56.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\proyectos\\clc1\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\temp\\proyectos\\clc1\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:25:20.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\temp\\proyectos\\clc1\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\temp\\proyectos\\clc1\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:14:40.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiPerson.cs",
+              "DocumentMoniker": "C:\\temp\\proyectos\\clc1\\Controllers\\WebApiPerson.cs",
+              "RelativeDocumentMoniker": "Controllers\\WebApiPerson.cs",
+              "ToolTip": "C:\\temp\\proyectos\\clc1\\Controllers\\WebApiPerson.cs",
+              "RelativeToolTip": "Controllers\\WebApiPerson.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:10:17.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\temp\\proyectos\\clc1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\temp\\proyectos\\clc1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T18:27:45.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clc1.http",
+              "DocumentMoniker": "C:\\temp\\proyectos\\clc1\\clc1.http",
+              "RelativeDocumentMoniker": "clc1.http",
+              "ToolTip": "C:\\temp\\proyectos\\clc1\\clc1.http",
+              "RelativeToolTip": "clc1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-26T18:27:46.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
